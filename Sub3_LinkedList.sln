@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedListYieldReturn.Tests
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListYieldReturn", "LinkedListYieldReturn\LinkedListYieldReturn.csproj", "{DE99B0FF-FF2C-46D7-B62D-BC60B18A7EB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustList", "CustList\CustList.csproj", "{327F8043-FFDF-4548-9991-32C8E92B68A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeCollection", "PracticeCollection\PracticeCollection.csproj", "{400F1455-5CC5-41D5-8721-3CD58FBCAC60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{DE99B0FF-FF2C-46D7-B62D-BC60B18A7EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE99B0FF-FF2C-46D7-B62D-BC60B18A7EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE99B0FF-FF2C-46D7-B62D-BC60B18A7EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{327F8043-FFDF-4548-9991-32C8E92B68A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327F8043-FFDF-4548-9991-32C8E92B68A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327F8043-FFDF-4548-9991-32C8E92B68A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327F8043-FFDF-4548-9991-32C8E92B68A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{400F1455-5CC5-41D5-8721-3CD58FBCAC60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400F1455-5CC5-41D5-8721-3CD58FBCAC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400F1455-5CC5-41D5-8721-3CD58FBCAC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{400F1455-5CC5-41D5-8721-3CD58FBCAC60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
